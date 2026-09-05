@@ -17,11 +17,7 @@ It also demonstrates JSP control transfer using:
 
 The application follows a simple e-commerce flow:
 
-**Login → Catalog → Cart → Checkout**
-
----
-
-## Assignment Question
+**Login → Catalog → Cart → Checkout
 
 ### "Session-Driven Shopping Cart" Navigation
 
